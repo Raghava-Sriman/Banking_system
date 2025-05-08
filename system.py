@@ -1,5 +1,4 @@
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
+# Simple Online Banking System by 
 
 ##1. Admin related functions ##
 #Admin login function
@@ -19,8 +18,6 @@ def admin_login():
     admin_login()
     return False
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Admin menu after login function
 def admin_menu():
@@ -41,8 +38,6 @@ def admin_menu():
             print("!!! Invalid Option! Please read the option carefully! !!!\n")
         opt_admin_menu=int(input("Please select your option (1/2/3/4): "))
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Admin new customer profile
 def admin_new_profile():
@@ -65,8 +60,6 @@ def admin_new_profile():
     print("--- RETURN TO ADMIN MENU ---\n")
     admin_menu()
     
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Admin search customer data
 def admin_search_customer_data():
@@ -89,8 +82,7 @@ def admin_search_customer_data():
     admin_menu()
     return False
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
+
 
 #Admin search customer transaction
 def admin_search_customer_transaction():
@@ -109,8 +101,7 @@ def admin_search_customer_transaction():
     print("--- Return to Admin Menu ---\n\n")
     admin_menu()
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
+
 
 ##2. Customer related functions ##
 #Customer login menu
@@ -130,8 +121,7 @@ def customer_login():
     customer_login()
     return False
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
+
 
 #Customer menu after login function
 def customer_menu():
@@ -153,8 +143,6 @@ def customer_menu():
         opt_customer_menu=int(input("> Please select your option (1/2/3/4): "))
         
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Customer deposit transaction
 def customer_deposit():
@@ -179,8 +167,6 @@ def customer_deposit():
     customer_menu()
     return False
     
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Customer withdraw transaction
 def customer_withdraw():
@@ -205,8 +191,6 @@ def customer_withdraw():
     customer_menu()
     return False
     
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Customer view transaction 
 def customer_view():
@@ -225,8 +209,6 @@ def customer_view():
     print("--- Return to Customer Menu ---\n\n")
     customer_menu()
     
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #Main menu
 def main_menu ():
@@ -246,11 +228,7 @@ def main_menu ():
         opt_main_menu=int(input("> Please select your login as (1/2/3): "))
 
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
 
 #To run main menu functions at first time
 main_menu()
 
-# Simple Online Banking System by caesarmario
-# More about myself: https://linktr.ee/caesarmario_
