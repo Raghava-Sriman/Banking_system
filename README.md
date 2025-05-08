@@ -57,7 +57,8 @@
 
 <br><br>
 
-## 📷 Screenshot:
+## Features :
+
 ### 🏠 Main Menu: <br>
 
 ### 👨‍💼 Admin features such as: <br>
