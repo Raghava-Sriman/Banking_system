@@ -49,8 +49,6 @@
     - Customer Withdraw
     - Customer View
 
-👉 All the **psudeocode** for each menu are available [here](https://github.com/caesarmario/simple-online-banking-system/tree/main/Pseudocode) <br>
-👉 All the **flowchart** for each menu are available [here](https://github.com/caesarmario/simple-online-banking-system/tree/main/Flowchart) <br><br>
 👉 There is also a simple security verification in this system where the customer/admin is asked to enter a password and user id. <br>
 👉 Suppose **the user id/password is not the same as the database (txt file)**, **the system will ask the user to enter the user id/password again until it is correct**.
 <br><br>
